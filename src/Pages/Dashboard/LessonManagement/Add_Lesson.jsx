@@ -70,7 +70,6 @@ export const Add_Lesson = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        // Log the form data to the console
         console.log('Form submitted with data: ', formData);
     };
 

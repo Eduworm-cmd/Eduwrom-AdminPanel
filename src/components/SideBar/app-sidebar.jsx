@@ -40,7 +40,7 @@ const data = {
         { title: "Lesson List", url: "/lesson/manage" },
         { title: "Add Lesson", url: "/Add/lesson" },
       ],
-    },
+    },  
   ],
 };
 
